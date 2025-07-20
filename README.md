@@ -46,7 +46,8 @@ Pavani Patel – GitHub
 Pallavi Battu – GitHub
 
 
----
+LIVE SERVER
+https://v0-crop-disease-detection-app-three.vercel.app/
 
 📜 License
 
